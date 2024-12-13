@@ -1,0 +1,266 @@
+text,emotion,confidence,model
+Just found out I got accepted into my dream university! I can't stop smiling!,"The primary emotion in this text is joy and excitement. The person has just received an acceptance letter from their dream university, which is a significant accomplishment and source of happiness. The exclamation ""I can't stop smiling!"" further emphasizes the intensity of their positive feelings.
+
+**Realistic Confidence Score: 90%**
+
+This score reflects that based on the text provided, the primary emotion is clearly joy and excitement, with a high degree of certainty.",0,qwen2.5-coder
+My dog of 15 years passed away yesterday. The house feels so empty now.,"The primary emotion in the given text is sadness or grief, as expressed by the author's loss of their long-time companion. A realistic confidence score for this interpretation could be around 80%. 
+
+While ""empty"" can also indicate loneliness, it might not fully capture the depth of sadness at losing a pet. The number indicates that while the emotion isn't entirely certain without additional context (like the specific circumstances leading to the pet's death), sadness is the most likely primary emotion expressed here.",0,qwen2.5-coder
+These constant deadlines and pressure at work are driving me insane!,"The primary emotion in the given text is frustration and anger. The author is expressing intense dissatisfaction with their job situation, likely due to feeling overwhelmed by the frequency of work deadlines and the accompanying stress.
+
+Considering the context of the workplace environment where such demands might be common, it's reasonable to infer that the author has already experienced these emotions multiple times. The use of exclamation marks also emphasizes the intensity of these feelings.
+
+On a realistic confidence scale from 1 (very low) to 10 (very high), I would rate my identification of the primary emotion as:
+
+8/10
+
+This score reflects a strong certainty based on the clear expression of frustration and anger in the text. While it's impossible to be 100% certain without more context about the author's feelings, the emotional tone is unmistakably negative, pointing towards these two primary emotions.",0,qwen2.5-coder
+I keep hearing strange noises in my house at night when I'm alone.,"The primary emotion expressed in the given text is fear or anxiety. The individual is experiencing discomfort due to unusual sounds occurring during their nighttime solitude, indicating feelings of unease and vulnerability.
+
+Confidence Score: 85/100
+
+This confidence score reflects a high degree of certainty based on the direct expression of negative emotional state through physical sensations (strange noises) that are causing distress.",0,qwen2.5-coder
+The way you look at me makes my heart skip a beat. I've never felt this way before.,"The primary emotion conveyed in the given text is romantic attraction or infatuation. The individual is expressing strong feelings of admiration and perhaps even love for another person based on their visual appearance.
+
+**Realistic Confidence Score**: 85%
+
+This score reflects a high level of confidence because the language used (""skip a beat"", ""never felt this way before"") clearly indicates a significant emotional response, suggesting strong romantic interest.",0,qwen2.5-coder
+Breaking news: Scientists just discovered evidence of life on Europa!,"Primary Emotion: Excitement
+
+Confidence Score: 95%
+
+Explanation:
+The discovery of potential life elsewhere in our solar system would be one of the most significant scientific breakthroughs in human history. This information is likely to evoke feelings of excitement, curiosity, and wonder among the general public due to its profound implications for our understanding of the universe and possibly even the possibility of extraterrestrial intelligence. The text's phrasing as ""Breaking news"" further emphasizes the urgency and impact of this discovery, reinforcing the emotional intensity associated with such a finding.",0,qwen2.5-coder
+Can't believe they cancelled my favorite show on such a cliffhanger.,"The primary emotion in the given text appears to be disappointment or frustration. The speaker is clearly upset that their favorite TV show was canceled prematurely, leaving it at an exciting point (a cliffhanger). The use of ""Can't believe"" emphasizes the intensity and suddenness of this negative feeling.
+
+Confidence Score: 9/10
+
+This score reflects a high level of confidence in identifying disappointment as the primary emotion due to the explicit mention and emphasis on the cancellation.",0,qwen2.5-coder
+My best friend just surprised me with tickets to see my favorite band live!,"The primary emotion in the given text is joy or excitement. The speaker's best friend has shown thoughtfulness and generosity by surprising them with tickets to see their favorite band perform live, which would typically evoke feelings of happiness and thrill. 
+
+While it's difficult to provide a specific confidence score without more context about the individual's emotional state and preferences, I can confidently say that based on the information given, the primary emotion expressed is joy or excitement, with a high degree of certainty.
+
+To analyze this text considering context, cultural nuances, and emotional complexity, one might need additional details such as:
+1. The speaker's relationship with their best friend.
+2. Their familiarity with the band in question.
+3. Their typical response to such gestures from friends.
+4. Any personal circumstances or events that might be affecting their mood.
+
+These factors could influence how intensely they feel the emotion and how it manifests emotionally. For instance, if the speaker is already excited about a trip, the surprise tickets might intensify this excitement even further. Conversely, if there are personal issues causing stress, the joy from the surprise might not be as pronounced.",0,qwen2.5-coder
+The doctor called with my test results. I'm terrified to call back.,"Primary Emotion: Fear/Anxiety
+
+Realistic Confidence Score: 85%
+
+Explanation:
+The text conveys a strong sense of fear or anxiety, primarily due to the unexpected news from the doctor regarding test results. The phrase ""I'm terrified"" directly expresses this emotion. Additionally, the hesitation (""to call back"") indicates uncertainty and apprehension about how to handle the situation, further reinforcing the emotional intensity.
+
+The confidence score is high because the emotion expressed in the text is clear and unambiguous. There's no significant ambiguity or mixed emotions that would reduce the confidence level. The use of strong language like ""terrified"" leaves little room for interpretation regarding the primary emotion.",0,qwen2.5-coder
+Watching my child take their first steps was the most magical moment.,"**Primary Emotion**: Joy
+
+**Confidence Score**: 90%
+
+The text expresses a profound sense of joy, reflecting a deep emotional connection and personal triumph as a parent. The magic of witnessing a child's first steps indicates a mix of pride, wonder, and happiness that is often associated with joyous moments in life. The high confidence score stems from the clarity and simplicity of the emotion expressed, which is universally recognized and easily identifiable.",0,qwen2.5-coder
+Why did you lie to me? I trusted you completely and you betrayed me.,"Primary Emotion: Betrayal (90% Confidence Score)
+
+Context:
+This text appears to be in a scenario where someone feels deeply wronged because they have been deceived by another person who they previously considered trustworthy. The betrayal is likely significant enough that it has caused the speaker strong negative emotions.
+
+Cultural Nuances:
+Betrayal is universally understood across cultures, but its impact and expression can vary. What might seem severe to one culture may be perceived as less serious in another. In some cultures, there's an expectation of trust and loyalty that lies at the core of relationships.
+
+Emotional Complexity:
+The text suggests a range of emotions including hurt, betrayal, anger, frustration, and possibly a sense of loss or disillusionment. The intensity and duration of these emotions can be influenced by various factors such as personality traits, past experiences, and personal values.
+
+Realistic Confidence Score: 90%
+This confidence score reflects the strong emotional content and clear expression of betrayal in the text. Betrayal is often a potent emotion that leaves a lasting impact on individuals.",0,qwen2.5-coder
+Just won the lottery! I'm literally shaking with excitement!,"Primary Emotion: Joy / Excitement
+
+Realistic Confidence Score: 95%
+
+The text conveys an overwhelming sense of joy and excitement, as evidenced by phrases like ""Just won the lottery!"" and ""I'm literally shaking with excitement!"" These expressions indicate that the individual is experiencing intense positive emotions due to their recent good fortune. The use of exclamation marks also reinforces the intensity of these feelings.",0,qwen2.5-coder
+Lost my job today. Don't know how I'll pay next month's rent.,"The primary emotion in this text is likely anxiety or distress. The individual has experienced unemployment and is worried about their financial situation, specifically their ability to cover living expenses for the upcoming month.
+
+Given the context and emotional complexity of the text, a realistic confidence score for identifying the primary emotion could be around 85%. This score reflects that while there may be underlying emotions like frustration or sadness, anxiety seems to be the most prominent given the immediate financial concern.",0,qwen2.5-coder
+There's a massive spider in my bathroom and I'm home alone.,"Primary Emotion: Fear
+
+Confidence Score: 85%
+
+This statement conveys a strong sense of fear due to the presence of a large spider in the bathroom when the person is at home alone. The emotional complexity arises from the unexpectedness and potential danger associated with spiders, especially for those who are arachnophobic or simply not accustomed to their presence in homes.",0,qwen2.5-coder
+Our first date was perfect - we talked for hours and the chemistry was amazing.,"**Primary Emotion:** Joy  
+**Confidence Score:** 90%  
+
+The text expresses joy, as it describes an ideal first date with positive sentiments such as long conversations and great chemistry. The use of phrases like ""perfect"" and ""amazing"" further reinforce the joyful tone. The confidence score is high because the emotions expressed are clear and there's no ambiguity about the feelings conveyed in the text.",0,qwen2.5-coder
+The sunset over the ocean today was absolutely breathtaking!,"The primary emotion in the given text is joy or awe-inspiring appreciation.
+
+Realistic Confidence Score: 85%
+
+This confidence score reflects a high level of certainty based on the enthusiastic language used (""absolutely breathtaking""). The text conveys a sense of wonder and admiration, which are strongly associated with positive emotions like joy and amazement. The emotional intensity is evident, making it highly likely that the writer felt these emotions deeply during their experience at the sunset over the ocean.",0,qwen2.5-coder
+My phone just died right when I was about to save my 3-hour project work.,"The primary emotion conveyed by the given text is frustration. The individual experienced an unexpected technological failure (their phone dying) while in the middle of completing a significant amount of work, which likely caused them stress and annoyance.
+
+Confidence score: 90/100
+
+This confidence score reflects that the context and details provided strongly suggest a feeling of frustration. While the intensity of emotion may vary slightly based on individual circumstances, the core emotion (frustration) is unmistakable in this case.",0,qwen2.5-coder
+Finally finished my PhD after 6 years of hard work!,"**Primary Emotion:** Relief/Exhaustion
+
+**Confidence Score:** 0.85
+
+The text conveys a strong sense of relief or exhaustion, indicating that the person has successfully completed their PhD after an extended period of intensive effort. The tone suggests both accomplishment and weariness, which aligns well with the identified emotion.",0,qwen2.5-coder
+They diagnosed my mom with stage 4 cancer today.,The primary emotion in this text is shock or disbelief. The realistic confidence score for identifying this emotion would be approximately 85%.,0,qwen2.5-coder
+"Just rescued a kitten from the street, and it won't stop purring in my arms.","Primary Emotion: Joy
+
+Realistic Confidence Score: 90%
+
+The text conveys a sense of joy and contentment, as evidenced by the rescue of a kitten and its subsequent behavior of purring in the rescuer's arms. The act of rescuing an animal is often associated with positive emotions such as happiness and satisfaction, while the sound of a purring cat typically signifies comfort and affection. The emotional complexity here includes elements of care, responsibility, and the joy derived from the connection with another being, especially one that has been in need.",0,qwen2.5-coder
+Can't believe my partner cheated on me after 5 years together.,"The primary emotion in this text is betrayal, with a high level of emotional intensity due to the long-term relationship duration and the shock factor associated with the cheating.
+
+Confidence Score: 90/100
+
+This score reflects the strong emotional impact and clarity of the primary emotion expressed in the text.",0,qwen2.5-coder
+The audience gave my performance a standing ovation!,"The primary emotion in the given text is undoubtedly joy and appreciation.
+
+**Confidence Score:** 95%
+
+This high confidence level reflects that the enthusiastic reaction described in the text is clear and unambiguous, indicating strong positive emotions from the audience.",0,qwen2.5-coder
+My childhood best friend stopped talking to me without any explanation.,"The primary emotion in the given text appears to be sadness or loneliness. The child is experiencing a significant emotional impact due to their childhood best friend stopping communication unexpectedly, which can lead to feelings of rejection and abandonment. 
+
+Given the context and the level of complexity involved in understanding and expressing such emotions, my confidence score in identifying the primary emotion as sadness or loneliness is 95%.",0,qwen2.5-coder
+There's a tornado warning in our area and the sky looks terrifying.,"The primary emotion conveyed by the text is fear or anxiety. The use of words like ""terrifying"" to describe the sky indicates an intense emotional response, likely fear or worry about the approaching tornado warning.
+
+Realistic confidence score: 80%
+
+This confidence level reflects the direct and immediate nature of the emotional language used in the text, which clearly expresses a strong emotion related to the impending weather event.",0,qwen2.5-coder
+My crush just asked me out on a date!,"The primary emotion in the given text is joy or excitement. The individual expressed their happiness at being asked out by their crush for a date. 
+
+Confidence Score: 90/100
+
+This score reflects high confidence because it's common and generally enjoyable to receive such an invitation, especially if one has feelings towards the person asking.",0,qwen2.5-coder
+Found out I'm going to be a parent - I'm overwhelmed with joy!,"Primary Emotion: Joy
+
+Realistic Confidence Score: 95%
+
+The text expresses strong positive emotions related to impending parenthood, specifically joy. The overwhelming nature of the emotion suggests it is genuine and heartfelt rather than artificially induced or sarcastic. The use of an exclamation mark indicates a high level of enthusiasm and emotional intensity.",0,qwen2.5-coder
+Someone broke into my car last night. I feel so violated.,"Primary Emotion: Fear/Anxiety
+
+Confidence Score: 95%
+
+The text conveys a strong sense of fear or anxiety due to the violation experienced, which is a common reaction to personal property being threatened or damaged. The breaching of personal space and security can evoke intense negative emotions, making it difficult for individuals to feel safe in their environment.",0,qwen2.5-coder
+Just landed my dream job with double my current salary!,"Primary Emotion: Joy / Excitement
+
+Confidence Score: 90/100
+
+The text expresses a sense of great joy and excitement due to securing a new job at a higher salary than the individual was previously earning. The use of ""dream job"" indicates that this is a significant personal achievement, further amplifying the positive emotion.",0,qwen2.5-coder
+Lost all my vacation photos when my hard drive crashed.,"The primary emotion in the given text is sadness or disappointment.
+
+Confidence Score: 90/100
+
+The context of losing important personal items, such as vacation photos, especially through an unexpected technical issue like a hard drive crash, can evoke strong feelings of loss and frustration. The emotional complexity arises from not only the loss of memories but also the potential inconvenience and disappointment in needing to recreate those experiences.",0,qwen2.5-coder
+Walking down the aisle today to marry the love of my life!,"Primary Emotion: Joy  
+Confidence Score: 95%  
+
+The text conveys a strong sense of happiness and excitement, especially given the context of a wedding. The phrase ""marry the love of my life"" indicates deep emotional fulfillment and a joyful anticipation of starting a new chapter in one's life with their partner.",0,qwen2.5-coder
+The stock I invested in just crashed and I lost everything.,"Primary Emotion: Sadness
+
+Realistic Confidence Score: 85%
+
+This response takes into account the context of financial loss which is likely to evoke sadness or emotional distress. However, it's important to note that emotions can be complex and might vary based on individual circumstances, cultural background, and personal resilience. The confidence score reflects a high likelihood of sadness given the described scenario, but actual emotion may also include anxiety, grief, anger, or a mix of these feelings depending on the individual's personality and life context.",0,qwen2.5-coder
+Surprise birthday party - all my friends from around the world came!,"The primary emotion in the given text appears to be joy or happiness. The person is celebrating their birthday with friends from various parts of the world, which indicates a sense of celebration and positivity.
+
+Confidence Score: 8/10
+
+This confidence score reflects that while there are elements of cultural diversity, which could potentially introduce some complexity, the overall tone and context strongly suggest an emotional response of joy. The emphasis on having friends from around the world to celebrate suggests a positive and inclusive atmosphere, further reinforcing the primary emotion of happiness.",0,qwen2.5-coder
+Nobody showed up to my graduation ceremony.,"Primary Emotion: Sadness
+
+Realistic Confidence Score: 90%
+
+The text expresses disappointment and sadness because no one attended the narrator's graduation ceremony, which is typically a significant event for individuals as it marks the end of a major educational phase. The absence of attendees indicates a lack of recognition and celebration of the individual's achievement, leading to feelings of loneliness and dissatisfaction.",0,qwen2.5-coder
+Just saw a huge shooting star streak across the night sky!,"Primary emotion: Joy  
+Confidence Score: 80%  
+
+The text expresses joy upon seeing a shooting star, which is often associated with good luck and positive omens in many cultures. The use of an exclamation mark also conveys excitement and happiness. However, due to the limited context provided, there's a small possibility that the person might be feeling awe or wonder rather than pure joy.",0,qwen2.5-coder
+My partner proposed to me at sunrise on top of a mountain!,"Based on the provided text, it appears that the primary emotion expressed is joy or happiness. This is supported by the romantic gesture of a proposal occurring at a picturesque location (sunrise on top of a mountain), which suggests a moment of significant emotional weight and celebration.
+
+**Primary Emotion:** Joy / Happiness
+
+**Realistic Confidence Score:** 90%",0,qwen2.5-coder
+Found out my best friend has been talking behind my back for months.,"The primary emotion in this text appears to be betrayal, with a strong undercurrent of sadness or disillusionment. The realization that a long-standing friendship could be based on deceit can evoke deep emotional pain and a sense of loss.
+
+Given the complexity and intensity of these emotions, I would rate the confidence score for identifying the primary emotion as 85%.",0,qwen2.5-coder
+Got a perfect score on my final exam that I studied months for!,"The primary emotion in this text is joy or happiness. The individual is expressing great satisfaction and pride in achieving a perfect score on their final exam after extensive studying. 
+
+Realistic Confidence Score: 90/100
+
+This confidence score reflects the strong positive emotions expressed in the text, indicating that the person feels very certain about their achievement and the effort they have put into it.",0,qwen2.5-coder
+Haven't heard from my brother who lives in the hurricane-affected area.,"The primary emotion in this text is concern or worry. There is an underlying sense of uncertainty and anxiety about the wellbeing of someone's family member in a situation that may be dangerous due to a natural disaster.
+
+Realistic Confidence Score: 85%
+
+Explanation:
+1. Context: The context involves a personal connection (brother) who resides in an area affected by a hurricane. This is a significant event with well-known potential dangers, including loss of life, property damage, and communication breakdowns.
+2. Cultural Nuances: In many cultures, family members are expected to prioritize each other's safety above all else. The concern expressed reflects this cultural value.
+3. Emotional Complexity: While the text is relatively straightforward, it encapsulates complex emotions. It shows empathy towards the brother who may be experiencing fear and hardship, as well as a sense of helplessness at not being able to provide assistance directly.
+4. Confidence in Emotion Identification: The confidence score is high because the emotion (concern) is clearly expressed through the text. There are no indications of other primary emotions that might compete with this concern.",0,qwen2.5-coder
+My art piece just sold for ten times more than I expected!,"The primary emotion expressed in the given text is joy or happiness. The person's excitement and satisfaction are evident from the exclamation point used at the end of the sentence, which indicates strong positive emotions.
+
+Considering the context and cultural nuances:
+- Selling an artwork for ten times more than initially expected implies a significant financial success.
+- In many cultures, achieving such financial success is often associated with pride and joy, especially in fields like art where creativity meets commerce.
+
+Emotionally complex aspects could include:
+- Relief if there was any uncertainty or fear about selling the piece at all.
+- Pride in one's own artistic abilities and market perception of their work.
+- Anticipation of future possibilities, such as increased potential for future sales or recognition.
+
+Realistic confidence score: 95%
+This high confidence score is based on the explicit expression of joy through the exclamation and the implication of a positive outcome that significantly exceeds expectations. The tone suggests that the person feels genuinely happy about this news.",0,qwen2.5-coder
+The company I worked at for 20 years just declared bankruptcy.,"Primary Emotion: Sadness
+
+Realistic Confidence Score: 95%
+
+The text conveys a profound sense of sadness, especially considering the context of long-term employment being abruptly ended due to a company's bankruptcy. The length of time spent working at the company (20 years) adds emotional weight, making the loss more impactful and thus increasing the likelihood of sadness. The abrupt nature of the event—without any indication of a graceful exit or severance process—can also intensify the negative emotions associated with job loss.",0,qwen2.5-coder
+Just held my newborn niece for the first time - she's perfect!,"Primary Emotion: Joy
+Realistic Confidence Score: 90%
+
+The text conveys an unmistakable sense of joy, particularly as the person expresses their first experience holding a newborn niece. The use of words like ""perfect"" further emphasizes a strong positive emotion. While there might be some minor emotional complexity related to the transition to parenthood, such as initial nervousness or excitement, the overwhelming sentiment is one of joy at this momentous occasion. Therefore, a confidence score of 90% is appropriate for identifying joy as the primary emotion in this context.",0,qwen2.5-coder
+The criticism from my boss today made me feel completely worthless.,"The primary emotion expressed in this text is sadness or depression. Given the context of criticism leading to feelings of worthlessness, it's reasonable to assign a high degree of emotional intensity.
+
+**Primary Emotion:** Sadness/Depression
+
+**Confidence Score:** 0.95",0,qwen2.5-coder
+Witnessed a car accident right in front of me - I'm still shaking.,"The primary emotion conveyed by the text is shock or fear. Given the context of witnessing a car accident, it's reasonable to infer that the person experienced strong negative emotions due to the sudden and potentially traumatic event.
+
+Realistic confidence score: 80%",0,qwen2.5-coder
+Just got a surprise care package from mom filled with my favorite things!,"The primary emotion expressed in the text is joy and happiness. There is also an element of nostalgia or sentimental warmth associated with receiving something from one's mother, especially when it contains personal items that bring back positive memories.
+Based on the enthusiastic tone of the statement, I would provide a realistic confidence score of 85% for the primary emotion being joy/happiness.",0,qwen2.5-coder
+My manuscript got rejected for the tenth time this year.,"The primary emotion expressed in the text is frustration or disappointment. 
+
+Confidence Score: 8/10
+
+This assessment considers the common human experience of facing rejection multiple times, especially in creative fields like writing. The use of ""tenth"" implies a pattern of repeated negative experiences, which would naturally evoke feelings of frustration or disappointment. The confidence score reflects that while emotions can be nuanced and subject to personal context, the general emotional response to such persistent rejection aligns closely with frustration or disappointment.",0,qwen2.5-coder
+First time seeing snow in my life - it's magical!,"**Primary Emotion:** Joy/Excitement
+
+**Realistic Confidence Score:** 90%
+
+The text expresses joy and excitement about experiencing snow for the first time. The use of the exclamation mark and the word ""magical"" indicates a strong positive emotional response. While it's not possible to give an absolute confidence score in emotion detection, considering both the explicit language and the common association between first-time experiences of natural phenomena like snow with feelings of wonder and delight, a high confidence level is justified.",0,qwen2.5-coder
+Found out my partner has been secretly gambling away our savings.,"Primary Emotion: Anger and Betrayal
+
+Realistic Confidence Score: 95%
+
+The text expresses deep feelings of anger and betrayal due to discovering that one's partner has been gambling away their shared savings without informing them or getting their consent. The tone indicates a strong emotional response, reflecting the significant impact of this revelation on the narrator.",0,qwen2.5-coder
+Just adopted a rescue dog and he already knows how to high five!,"The primary emotion in the given text appears to be joy or happiness. The action of adopting a dog, especially one that is already skilled in something like high fives, suggests a sense of excitement and satisfaction at this new addition to the family.
+
+**Realistic Confidence Score: 80%**
+
+This confidence score reflects the clear indication of positive emotions through the adoption of an animal and its ability to perform a simple trick. However, it's not an absolute certainty due to potential variations in interpretation and cultural context, but given the straightforward nature of the statement, it is quite strong.",0,qwen2.5-coder
+My grandmother with Alzheimer's didn't recognize me today.,"The primary emotion in this text seems to be sadness or grief. The realization that a loved one with Alzheimer's disease has forgotten something as basic as recognizing their family member can evoke feelings of helplessness, frustration, and sadness.
+
+Realistic confidence score: 90%
+
+This confidence is high because the statement expresses a common emotional response to familial dementia, which often involves feelings of loss and separation from the past. The direct mention of forgetting someone's name or identity in this context strongly indicates a sense of sadness or grief.",0,qwen2.5-coder
+Won first place in the national photography competition!,"Primary Emotion: Pride
+
+Confidence Score: 90%
+
+The text ""Won first place in the national photography competition!"" indicates a strong positive emotion, specifically pride. The achievement of winning a top prize typically brings feelings of accomplishment and satisfaction. The use of exclamation marks also emphasizes the intensity of these emotions. Considering cultural nuances, success in competitive events like photography competitions is generally highly valued, further reinforcing the emotional impact.
+
+While it's challenging to assign an exact confidence score without more context, based on the clear indicators in the text, a 90% confidence level in identifying pride as the primary emotion is reasonable.",0,qwen2.5-coder

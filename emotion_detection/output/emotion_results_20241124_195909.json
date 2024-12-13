@@ -1,0 +1,28 @@
+[
+  {
+    "timestamp": "2024-11-24T19:59:07.765073",
+    "text": "I just got promoted at work!",
+    "emotion": "Joy",
+    "intensity": "2",
+    "features": {
+      "length": 28,
+      "word_count": 6,
+      "has_exclamation": true,
+      "has_question": false,
+      "uppercase_ratio": 0.03571428571428571
+    }
+  },
+  {
+    "timestamp": "2024-11-24T19:59:09.083062",
+    "text": "I'm feeling really anxious about tomorrow.",
+    "emotion": "Fear",
+    "intensity": "2",
+    "features": {
+      "length": 42,
+      "word_count": 6,
+      "has_exclamation": false,
+      "has_question": false,
+      "uppercase_ratio": 0.023809523809523808
+    }
+  }
+]

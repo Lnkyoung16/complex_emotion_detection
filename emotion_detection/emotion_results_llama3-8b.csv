@@ -1,0 +1,6 @@
+text,emotion,model
+I just got promoted at work!,Joy,llama3:8b
+I miss my family so much it hurts.,Sadness,llama3:8b
+I can't believe they would do this to me!,Anger,llama3:8b
+"Wow, I never expected this to happen!",Surprise,llama3:8b
+I love spending time with you.,Love,llama3:8b

@@ -1,0 +1,103 @@
+2024-11-24 20:00:54,577 - INFO - Starting emotion detection analysis
+2024-11-24 20:00:54,577 - INFO - Loading texts from input_texts.txt
+2024-11-24 20:00:55,298 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:00:55,988 - INFO - Processed text 1/50: Joy
+2024-11-24 20:00:56,702 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:00:57,376 - INFO - Processed text 2/50: sadness
+2024-11-24 20:00:58,080 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:00:58,744 - INFO - Processed text 3/50: Anger
+2024-11-24 20:00:59,443 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:01:00,131 - INFO - Processed text 4/50: Fear
+2024-11-24 20:01:00,786 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:01:01,441 - INFO - Processed text 5/50: Love
+2024-11-24 20:01:02,138 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:01:02,886 - INFO - Processed text 6/50: Surprise
+2024-11-24 20:01:03,581 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:01:04,268 - INFO - Processed text 7/50: Sadness
+2024-11-24 20:01:04,950 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:01:05,657 - INFO - Processed text 8/50: Joy
+2024-11-24 20:01:06,330 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:01:07,028 - INFO - Processed text 9/50: Fear
+2024-11-24 20:01:07,709 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:01:08,367 - INFO - Processed text 10/50: Joy
+2024-11-24 20:01:08,844 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:01:09,268 - INFO - Processed text 11/50: Sadness
+2024-11-24 20:01:09,953 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:01:10,504 - INFO - Processed text 12/50: Joy
+2024-11-24 20:01:11,243 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:01:11,826 - INFO - Processed text 13/50: Sadness
+2024-11-24 20:01:12,265 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:01:12,664 - INFO - Processed text 14/50: Fear
+2024-11-24 20:01:13,090 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:01:13,513 - INFO - Processed text 15/50: Joy
+2024-11-24 20:01:14,216 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:01:14,671 - INFO - Processed text 16/50: Joy
+2024-11-24 20:01:15,096 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:01:15,797 - INFO - Processed text 17/50: Sadness
+2024-11-24 20:01:16,198 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:01:16,813 - INFO - Processed text 18/50: Joy
+2024-11-24 20:01:17,501 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:01:17,945 - INFO - Processed text 19/50: Sadness
+2024-11-24 20:01:18,434 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:01:18,894 - INFO - Processed text 20/50: Joy
+2024-11-24 20:01:19,486 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:01:20,173 - INFO - Processed text 21/50: Sadness
+2024-11-24 20:01:20,852 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:01:21,561 - INFO - Processed text 22/50: Joy
+2024-11-24 20:01:22,211 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:01:22,888 - INFO - Processed text 23/50: Sadness
+2024-11-24 20:01:23,382 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:01:23,778 - INFO - Processed text 24/50: Fear
+2024-11-24 20:01:24,158 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:01:24,618 - INFO - Processed text 25/50: Joy
+2024-11-24 20:01:25,333 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:01:26,012 - INFO - Processed text 26/50: Joy
+2024-11-24 20:01:26,684 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:01:27,348 - INFO - Processed text 27/50: Sadness
+2024-11-24 20:01:28,005 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:01:28,726 - INFO - Processed text 28/50: Joy
+2024-11-24 20:01:29,414 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:01:30,083 - INFO - Processed text 29/50: Sadness
+2024-11-24 20:01:30,785 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:01:31,498 - INFO - Processed text 30/50: Joy
+2024-11-24 20:01:32,173 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:01:32,862 - INFO - Processed text 31/50: Sadness
+2024-11-24 20:01:33,513 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:01:34,188 - INFO - Processed text 32/50: Joy
+2024-11-24 20:01:34,864 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:01:35,572 - INFO - Processed text 33/50: Sadness
+2024-11-24 20:01:36,233 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:01:36,935 - INFO - Processed text 34/50: Joy
+2024-11-24 20:01:37,606 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:01:38,297 - INFO - Processed text 35/50: Joy
+2024-11-24 20:01:38,988 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:01:39,661 - INFO - Processed text 36/50: Sadness
+2024-11-24 20:01:40,304 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:01:40,988 - INFO - Processed text 37/50: Joy
+2024-11-24 20:01:41,716 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:01:42,418 - INFO - Processed text 38/50: Sadness
+2024-11-24 20:01:43,100 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:01:43,772 - INFO - Processed text 39/50: Joy
+2024-11-24 20:01:44,463 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:01:45,153 - INFO - Processed text 40/50: Sadness
+2024-11-24 20:01:45,857 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:01:46,551 - INFO - Processed text 41/50: Joy
+2024-11-24 20:01:47,283 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:01:47,970 - INFO - Processed text 42/50: Sadness
+2024-11-24 20:01:48,361 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:01:49,058 - INFO - Processed text 43/50: Fear
+2024-11-24 20:01:49,744 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:01:50,433 - INFO - Processed text 44/50: Joy
+2024-11-24 20:01:51,111 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:01:51,778 - INFO - Processed text 45/50: Sadness
+2024-11-24 20:01:52,503 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:01:53,196 - INFO - Processed text 46/50: Joy
+2024-11-24 20:01:53,873 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:01:54,598 - INFO - Processed text 47/50: Sadness
+2024-11-24 20:01:55,275 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:01:55,939 - INFO - Processed text 48/50: Joy
+2024-11-24 20:01:56,630 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:01:57,318 - INFO - Processed text 49/50: Sadness
+2024-11-24 20:01:58,000 - WARNING - Warning: [?25l[?25l[?25h[2K[1G[?25h[?25l[?25h[?25l[?25h
+2024-11-24 20:01:58,726 - INFO - Processed text 50/50: Joy
+2024-11-24 20:01:58,833 - ERROR - Error during analysis: invalid literal for int() with base 10: '3 (Excitement/Joy)'

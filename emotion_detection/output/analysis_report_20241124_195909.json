@@ -1,0 +1,14 @@
+{
+  "timestamp": "2024-11-24T19:59:09.544184",
+  "total_samples": 2,
+  "emotion_distribution": {
+    "Fear": 1,
+    "Joy": 1
+  },
+  "intensity_distribution": {
+    "mild": 0,
+    "moderate": 2,
+    "strong": 0
+  },
+  "average_text_length": 35.0
+}
