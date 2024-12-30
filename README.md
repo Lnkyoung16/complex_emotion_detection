@@ -2,9 +2,9 @@
 
 ## Project Structure
 /gscratch/scrubbed/nlee6/
-├── ollama/                    # Ollama container files
-│   ├── ollama.def            # Container definition
-│   └── ollama.sif            # Built container
+├── ollama/                    # Ollama container files - not on GitHub
+│   ├── ollama.def            # Container definition - not on GitHub
+│   └── ollama.sif            # Built container - not on GitHub
 │
 ├── ollama_data/              # Model storage
 │   └── storage/              # Model weights & configs
